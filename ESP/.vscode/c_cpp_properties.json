@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/neivmalaviya/Documents/PlatformIO/Projects/ESP/include",
-                "/Users/neivmalaviya/Documents/PlatformIO/Projects/ESP/src",
+                "/Users/neivmalaviya/Documents/Code/Arduino/ESP/include",
+                "/Users/neivmalaviya/Documents/Code/Arduino/ESP/src",
                 "/Users/neivmalaviya/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/Users/neivmalaviya/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/Users/neivmalaviya/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -240,8 +240,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/neivmalaviya/Documents/PlatformIO/Projects/ESP/include",
-                    "/Users/neivmalaviya/Documents/PlatformIO/Projects/ESP/src",
+                    "/Users/neivmalaviya/Documents/Code/Arduino/ESP/include",
+                    "/Users/neivmalaviya/Documents/Code/Arduino/ESP/src",
                     "/Users/neivmalaviya/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/Users/neivmalaviya/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/Users/neivmalaviya/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
